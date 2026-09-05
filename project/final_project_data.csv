@@ -1,0 +1,31 @@
+﻿Sales_Type,Sale_price,Equipment Needs,Equipment_price,Barber_training,Barber_trainers
+Regular Haircut [1],45,Chairs [1],500,Welcome Training [1],Welcome Training [1] - Amy Sulivan
+Shave [2],15,Clippers [2],200,Ethics [2],Ethics [2] - Jonathan Alonzo
+Low Fade [3],40,Computers [3],300,Conflict Management [3],Conflict Management [3] - Afred Potts; Cade Johnson
+Mid Fade [4],45,Internet Router [4],600,How to Fade Hair [4],How to Fade Hair [4] - Derek Williams
+High Fade [5],45,Shampoo Products [5],80,Customer Care [5],Customer Care [5] - Wesley Matthews
+Trim [6],25,Barber Capes [6],25,Practicum [6],Practicum [6] - Sarah Burnes; Candra Lopez
+Scissor Cut [7],15,,,,
+Buzz Cut [8],20,,,,
+,,,,,
+Employe_ Info,,,,,
+Siera Andrews [1],Miles Garrett [4],,,,
+(210) 999-0899,(210) 008-8979,,,,
+899 West Street,15 Wilderness Drive,,,,
+"HireDate: January 15, 2001","HireDate: November 15, 2003",,,,
+Equipment Needs: Chairs [1]; Clippers [2]; Shampoo Products [5]; Barber Capes [6],Equipment Needs: Chairs [1]; Clippers [2]; Shampoo Products [5]; Barber Capes [6],,,,
+Training Need:Welcome Training [1]; Confict Management [3],Training Needs: Welcome Training [1]; Customer Care [5]; Practicum [6],,,,
+,,,,,
+,,,,,
+Philip Martin [2],Jarod Brown [5],,,,
+(210) 908-1243,(210) 098-3012,,,,
+809 Oak Haven,29 Short Ave,,,,
+"HireDate: March 19, 2017","HireDate: March 23, 2016",,,,
+Equipment Needs: Chairs [1]; Clippers [2]; Shampoo Products [5]; Barber Capes [6],Equipment Needs: Chairs [1]; Clippers [2]; Shampoo Products [5]; Barber Capes [6],,,,
+Training Needs: How to Fade Hair [4];  Ethics [2],Training Needs: Welcome Training [1]; Ethics [2]; How to Fade Hair [4],,,,
+,,,,,
+,,,,,
+Daniel Niles [3],,,,,
+(210) 987-9008,,,,,
+8908 Main St,,,,,
+"HireDate: November 14, 2003",,,,,
