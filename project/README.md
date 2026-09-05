@@ -22,6 +22,14 @@ The project takes the barbershop's employee, equipment, sales, and training data
 - Excel
 - Microsoft Word
 
+## Project Files
+
+- [Final Project SQL](./src/final_project.sql) — Database creation, data insertion, and SQL queries
+- [Project Data](./data/final_project_data.csv) — Dataset used for the database
+- [Physical Data Model](./images/physical_data_model.png) — Physical database model
+- [Full Project Report](./Final_Project_Gould.pdf) — Complete project documentation
+
+  
 ## Repository Structure
 
 ```text
